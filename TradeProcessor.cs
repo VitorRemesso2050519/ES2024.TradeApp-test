@@ -7,6 +7,10 @@ namespace TradeApp
 {
     public class TradeProcessor
     {
+        public TradeProcessor() { 
+            
+        }
+
         public void ProcessTrades(Stream stream)
         {
 
